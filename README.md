@@ -1,9 +1,9 @@
 # Google India Challenge Scholarship
 This repository contains the list of videos which I learnt as a part of Google India Challenge Scholarship Android Developer Intermediate Track.
 ## Contents of this course.
-  1. Welcome! Important details on your Scholarship.
-  2. Create Project Sunshine.
-  3. Connect to the Internet.
+  1. [Welcome! Important details on your Scholarship.](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/README.md#welcome-important-details-on-your-scholarship)
+  2. [Create Project Sunshine.](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/README.md#create-project-sunshine)
+  3. [Connect to the Internet.](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/README.md#connect-to-the-internet) 
   4. RecyclerView.
   5. Intents.
   6. Lifecycle.
@@ -18,6 +18,8 @@ This repository contains the list of videos which I learnt as a part of Google I
     
 ### Welcome! Important details on your Scholarship.
   1. [Scholarship Overview](https://www.youtube.com/watch?time_continue=1&v=dyl46-Cgeeg)
+  
+  
   
 ### Create Project Sunshine.
   1. [Introduction](https://www.youtube.com/watch?time_continue=5&v=junCRL5Jm2w)
@@ -40,3 +42,23 @@ This repository contains the list of videos which I learnt as a part of Google I
   15. [Responsive Design](https://youtu.be/ENGV-KPs5ns)
   16. [Layout Managers](https://youtu.be/EAyOlmSuDbY)
   17. [Recap](https://youtu.be/dJSkTtHB5fU)
+ 
+  
+  
+### Connect to the Internet.
+  1. [Introduction](https://youtu.be/n2fqTGPTbOM)
+  2. [Logging](https://youtu.be/i8CELIzOXCs)
+     > [Documentation for Logging](https://developer.android.com/reference/android/util/Log.html)
+  3. [Internet Toy App Intro](https://youtu.be/1YOwjTmpYiA). [Extras](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/Markdown/Connect%20to%20the%20Internet./Internet%20Toy%20App%20Intro.md)
+  4. Resources [Image](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/Images/Connect%20to%20the%20Internet./Resources.png)/[Markdown](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/Markdown/Connect%20to%20the%20Internet./Resources.md)
+  5. [On Menus](https://youtu.be/vB84S_uMUu8)
+  6. [Fetching an HTTP Request](https://youtu.be/4rl1pR_06MY)
+     > See this post on [StackOverflow](http://stackoverflow.com/questions/309424/read-convert-an-inputstream-to-a-string) for a good discussion on different methods of doing this. Also, if you want more information on the okhttp, you can find it [here](http://square.github.io/okhttp/).
+  7. [Permissions](https://youtu.be/fq3y6NK61N0)
+     > See [here](https://developer.android.com/guide/topics/security/permissions.html) for a list of all permissions your app may need.
+  8. [Thread Basics](https://youtu.be/fos0rP73LFc)
+     > At 1:35, the slide should read, "Run the network **task** on a secondary execution thread"
+  9. [AsyncTask](https://youtu.be/8CO0UmLZH80)
+  10. [JSON Format](https://youtu.be/0IOCgHrTJGU)
+  11. [Refresh Bad!!!](https://youtu.be/kO-afY-fUEE)
+  12. [Recap](https://youtu.be/i6B4H79Q76E)
