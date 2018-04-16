@@ -1,9 +1,9 @@
 # Google India Challenge Scholarship
 This repository contains the list of videos which I learnt as a part of Google India Challenge Scholarship Android Developer Intermediate Track.
 ## Contents of this course.
-  1. [Welcome! Important details on your Scholarship.](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/README.md#welcome-important-details-on-your-scholarship)
-  2. [Create Project Sunshine.](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/README.md#create-project-sunshine)
-  3. [Connect to the Internet.](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/README.md#connect-to-the-internet) 
+  1. [Welcome! Important details on your Scholarship.](#welcome-important-details-on-your-scholarship)
+  2. [Create Project Sunshine.](#create-project-sunshine)
+  3. [Connect to the Internet.](#connect-to-the-internet) 
   4. RecyclerView.
   5. Intents.
   6. Lifecycle.
