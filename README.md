@@ -6,7 +6,7 @@ This repository contains the list of videos which I learnt as a part of Google I
   3. [Connect to the Internet.](#connect-to-the-internet) 
   4. [RecyclerView.](#recyclerview).
   5. [Intents.](#intents)
-  6. Lifecycle.
+  6. [Lifecycle.](#lifecycle)
   7. Preferences.
   8. Storing Data in SQLite.
   9. Content Providers.
@@ -101,3 +101,20 @@ This repository contains the list of videos which I learnt as a part of Google I
   13. [Media Types](https://youtu.be/6qqqeTLhI-8)
   14. [Implementing a Share Intent](https://youtu.be/0hHRHZHsFow)
   15. [Recap](https://youtu.be/eFTnwjgCr7k)
+
+
+
+### Lifecycle.
+  1. [Introduction](https://youtu.be/6XAv58Wu10M)
+  2. [Why We Need an Activity Lifecycle](https://youtu.be/8NGSfSvOkNI)
+  3. [Android Activity Lifecycle](https://youtu.be/LFTYZrYARUw)
+  4. [Reto on the Android Activity Lifecycle](https://youtu.be/0JpxCe4G5cc)
+  5. [Why does this Happen?](https://youtu.be/GVDA3i3_2GU)
+  6. [Save and Restore Instance State](https://youtu.be/Jt9YdTKiJ5E)
+  7. [App Termination](https://youtu.be/J490-TZkkzk)
+  8. [Preparing for Termination](https://youtu.be/1KOC2i5UGqM)
+  9. [Persisting Data With an Old Friend](https://youtu.be/8VsUz1fJaHY)
+  10. [AsyncTask and Loaders](https://youtu.be/CuAcqePU9ps)
+  11. [Leveraging Loaders](https://youtu.be/5o7SN8Z3VWs)
+  12. [Caching with Loaders](https://youtu.be/sulbgTYurnQ)
+  13. [Conclusion](https://youtu.be/lfxPIbSj57A)
