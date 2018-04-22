@@ -4,7 +4,7 @@ This repository contains the list of videos which I learnt as a part of Google I
   1. [Welcome! Important details on your Scholarship.](#welcome-important-details-on-your-scholarship)
   2. [Create Project Sunshine.](#create-project-sunshine)
   3. [Connect to the Internet.](#connect-to-the-internet) 
-  4. RecyclerView.
+  4. [RecyclerView](#recyclerview).
   5. Intents.
   6. Lifecycle.
   7. Preferences.
@@ -62,3 +62,24 @@ This repository contains the list of videos which I learnt as a part of Google I
   10. [JSON Format](https://youtu.be/0IOCgHrTJGU)
   11. [Refresh Bad!!!](https://youtu.be/kO-afY-fUEE)
   12. [Recap](https://youtu.be/i6B4H79Q76E)
+
+
+### RecyclerView
+  1. [Introduction](https://youtu.be/1293rmaMw_w)
+  2. [Why RecyclerView?](https://youtu.be/-ao_KQFqQQU)
+  3. [How RecyclerView Works](https://youtu.be/gFJFmbRpA5k)
+  4. [Using RecyclerView](https://youtu.be/xjfBzI9qlwk)
+  5. [Why ViewHolders?](https://youtu.be/Hy6TvbbzJMw)
+  6. [Visualizing ViewHolders](https://youtu.be/_umHGen60mw). [Extras](https://github.com/Jeetu95/Google-India-Challenge-Scholarship/blob/master/Markdown/RecyclerView/Visualizing%20ViewHolders.md)
+  7. [Creating RecyclerView Layout](https://youtu.be/U-X2kLWqYs0)
+  8. [Items and ViewHolders](https://youtu.be/e9yZMIoAnMM)
+      > See https://developer.android.com/guide/practices/screens_support.html for more information on supporting multiple screens in Android.
+  9. [RecyclerView and Adapters](https://youtu.be/ns3WC8HFx90)
+  10. [Creating an Adapter](https://youtu.be/K4wre8VBcwY)
+  11. [RecyclerView Layout Manager](https://youtu.be/hjrk75Xz7i0)
+  12. [Wiring Up RecyclerView](https://youtu.be/zsKx2lcKXXA)
+  13. [Visualizing Recycling](https://youtu.be/sbxYYfombF4)
+  14. [Responding to Item Clicks](https://youtu.be/wCSePoE3lqA)
+  15. [Recap](https://youtu.be/BEX99MV3dD4)
+  
+  
