@@ -4,8 +4,8 @@ This repository contains the list of videos which I learnt as a part of Google I
   1. [Welcome! Important details on your Scholarship.](#welcome-important-details-on-your-scholarship)
   2. [Create Project Sunshine.](#create-project-sunshine)
   3. [Connect to the Internet.](#connect-to-the-internet) 
-  4. [RecyclerView](#recyclerview).
-  5. Intents.
+  4. [RecyclerView.](#recyclerview).
+  5. [Intents.](#intents)
   6. Lifecycle.
   7. Preferences.
   8. Storing Data in SQLite.
