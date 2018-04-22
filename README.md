@@ -64,7 +64,7 @@ This repository contains the list of videos which I learnt as a part of Google I
   12. [Recap](https://youtu.be/i6B4H79Q76E)
 
 
-### RecyclerView
+### RecyclerView.
   1. [Introduction](https://youtu.be/1293rmaMw_w)
   2. [Why RecyclerView?](https://youtu.be/-ao_KQFqQQU)
   3. [How RecyclerView Works](https://youtu.be/gFJFmbRpA5k)
@@ -83,3 +83,21 @@ This repository contains the list of videos which I learnt as a part of Google I
   15. [Recap](https://youtu.be/BEX99MV3dD4)
   
   
+
+### Intents.
+  1. [Introduction](https://youtu.be/d957Z2-mQEw)
+  2. [Sunshine App UX Mocks](https://youtu.be/SRfWTRRLHLY)
+  3. [Intents Framework](https://youtu.be/O3JhStYAEho)
+  4. [Explicit Intent Toy App](https://youtu.be/pa0Sz7r1mZw)
+  5. [Creating an Activity](https://youtu.be/-zRpQ-TDBPc)
+  6. [Creating an Intent](https://youtu.be/VeaH5cl56X0)
+  7. [Passing Data Between Activities](https://youtu.be/pps6aVOMyzM)
+  8. [What are Implicit Intents?](https://youtu.be/HvfrMWfodGQ)
+  9. [Creating Implicit Intents](https://youtu.be/0PB7avt9TC0)
+      > Visit this link to learn about common intents: https://developer.android.com/guide/components/intents-common.html
+  10. [Understanding URIs](https://youtu.be/0_puKQmVOBI)
+  11. [Creating a Map Intent](https://youtu.be/TQ_s0gwcj4M)
+  12. [Sharing is Caring!](https://youtu.be/kpkQoIS2I1A)
+  13. [Media Types](https://youtu.be/6qqqeTLhI-8)
+  14. [Implementing a Share Intent](https://youtu.be/0hHRHZHsFow)
+  15. [Recap](https://youtu.be/eFTnwjgCr7k)
